@@ -12,7 +12,7 @@ This repository contains a UFC prediction model built to forecast the outcomes o
 
 ## Data Collection and Processing 
 
-The data for this project is collected using ParseHub, a web scraping tool, to extract UFC data from various sources. The collected data includes information about fighters, event details, fight outcomes, statistical metrics, and other relevant features.
+The data for this project is collected using ParseHub, a web scraping tool, to extract UFC data from ufcstats.com. The collected data includes information about fighters, event details, fight outcomes, statistical metrics, and other relevant features.
 
 The collected data is then manually cleaned and processed to ensure consistency and accuracy. Categorical variables are encoded or transformed as necessary, and missing values are handled appropriately. Numerical features are scaled or normalized to ensure fair comparisons.
 
